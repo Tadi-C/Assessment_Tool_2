@@ -93,7 +93,7 @@ Public Class Section_C
         Dim columnNames As New List(Of String)()
         Dim rowNames As New List(Of String)()
 
-        Dim conn As New SqlConnection(DbMethods.connectionString)
+        Dim conn As New SqlConnection(DBInterface.connectstring)
         Dim cmdText As String = $"Declare @TableName NVARCHAR(128) = '{tableName}'" & vbCrLf &
             $"DECLARE @ColumnsToExclude NVARCHAR(MAX) = 'Question_ID,Section_ID,ANSWER_ID,QUESTION_MARK,ASSESMENT_ID,Question_Text'" & vbCrLf &
             $"DECLARE @SQL NVARCHAR(MAX)" & vbCrLf &

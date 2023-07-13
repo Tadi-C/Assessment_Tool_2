@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Cheita VB", "Cheita VB\Cheita VB.vbproj", "{82BB40B6-E04C-4C20-8631-24065A0FE7C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82BB40B6-E04C-4C20-8631-24065A0FE7C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82BB40B6-E04C-4C20-8631-24065A0FE7C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82BB40B6-E04C-4C20-8631-24065A0FE7C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82BB40B6-E04C-4C20-8631-24065A0FE7C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97CB503F-061E-4ECA-8607-AD7A4F70B213}
+	EndGlobalSection
+EndGlobal

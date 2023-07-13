@@ -1,0 +1,25 @@
+﻿
+/*CONSENT FORM*/
+#h3heading {
+    color: #CA8A1C;
+    margin-top:30px
+}
+#headingcontainer {
+    width: 100%;
+    display: flex;
+    justify-content:space-between;
+    margin-bottom:20px
+}
+#imglogo{
+    height:auto;
+    width:auto;
+}
+.inp {
+    border-width: 1px;
+    width: 50%;
+    height: 40px;
+    background-color: white;
+    border-radius: 10px;
+    border-color: #0000006B;
+    margin-bottom:10px
+}
